@@ -1,4 +1,4 @@
-# Go Quiz
+# Go Quiz Game
 
 This is the solution to [Gophercises Quiz Game](https://github.com/gophercises/quiz)
 
